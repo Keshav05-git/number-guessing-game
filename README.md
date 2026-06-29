@@ -2,6 +2,9 @@
 
 A simple, interactive console-based game written in Python where the player attempts to guess a randomly generated secret number between 1 and 10.
 
+### 📸 Game Screenshot
+![Number Guessing Game Output](Guess The Number Game.png)
+
 ## 📝 Description
 This project is a classic "Number Guessing Game". The script randomly selects a secret number from 1 to 10. The player is given **10 attempts** to guess the correct number. After each wrong guess, the game provides a hint—telling the user whether they need to guess *higher* or *lower*. 
 
